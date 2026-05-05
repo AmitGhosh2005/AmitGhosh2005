@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Amit</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | MERN Stack Developer </h3>
+---
+## 👨‍💻 About Me
 
-<!--
-**AmitGhosh2005/AmitGhosh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech IT Student (3nd Year)
+- 💻 Passionate about **Web Development + AI Integration**
+- 🚀 Building real-world projects 
+- ⚡ Currently focused on:
+  - MERN Stack Development
+  - Advanced JavaScript
+  - Building impactful full-stack apps
+---
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### 💻 Frontend
+- HTML, CSS, JavaScript
+- React.js
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+
+### 🤖 AI / Tools
+- OpenAI APIs
+- Image Recognition Models
+- Git & GitHub
+----
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/amit-ghosh03/
+- 📧 Email: amitghosh000018@gmail.com
+---
+## ⚡ Fun Facts
+
+- 🧠 I believe consistency beats talent
+- 🎯 Obsessed with growth & high performance
+- 💡 I build projects, not just tutorials
+---
+<p align="center">
+🔥 "Discipline + Execution = Top 1% Developer"
+</p>
